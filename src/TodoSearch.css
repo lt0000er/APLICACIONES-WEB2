@@ -1,0 +1,18 @@
+
+.Search{
+   text-align: center;
+   height: 30px;
+   min-width: 10px;
+   padding: auto;
+   display: flex;
+   justify-content: center;
+   bottom: center;
+    padding-bottom: 5px;
+    align-items: unset;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    background-color: mediumpurple;
+    border-radius: 5px;
+   
+}
