@@ -1,0 +1,12 @@
+.TodoCounter {
+    text-align: center;
+    color: aqua;
+    justify-content: center;
+    
+}
+
+.Counter {
+    color: aqua;
+    display: flex;
+}
+

@@ -1,0 +1,22 @@
+.TodoItem{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    
+
+    
+    
+}
+
+.Item{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+    flex-direction: column;
+    height: 40px;
+    border-radius: 5px;
+    align-items: center;
+    margin: 10px;
+    justify-content: center;
+    
+}

@@ -1,0 +1,17 @@
+.CreateTodoButton {
+    text-align: center;
+    align-items: center;
+    height: 40px;
+    min-width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-radius: 5px;
+    background-color: mediumpurple;
+ 
+}
+
+.addtodo{
+    flex-direction: column;
+    display: flex;
+}
