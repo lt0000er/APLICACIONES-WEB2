@@ -1,0 +1,11 @@
+.todo-counter {
+    text-align: center;
+    font-weight: 300;
+    margin: 0;
+    font-size: 20px;
+}
+
+.todo-counter:hover{
+    transition: all 1s;
+   
+}

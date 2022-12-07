@@ -1,0 +1,25 @@
+.Container-one {
+  width: 23rem;
+  background-color: #262627;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 5px 5px 30px 5px rgba(0,0,0,0.75);
+  border-radius: 1rem;
+  
+  
+}
+
+.Container-title{
+ background-color: #262627;
+    border-radius: 2rem;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 700;
+}
+
+.Container-title:hover{
+    transform: scale(0.95);
+    transition: all 1s;
+}
+

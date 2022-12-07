@@ -1,0 +1,35 @@
+.todo-item {
+    height: 3rem;
+    padding: 0 5px;
+    list-style: none;
+    background-color: rgb(105, 103, 103);
+    border-radius: 10px;
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+    box-shadow: 2px 10px 14px -7px rgba(0,0,0,0.48);
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+
+.todo-item .check{
+    margin-right: auto;
+    color: greenyellow;
+}
+.todo-item .text{
+    color: #fff;
+    text-align: center;
+}
+
+
+
+
+
+.todo-item .delete{
+    margin-left: auto;
+    
+    color: red;
+}
